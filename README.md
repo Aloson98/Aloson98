@@ -4,7 +4,7 @@
 
 I am a self-taught software developer with a strong focus on backend systems, scalable architectures, and payment-driven applications. I build real-world products that solve local and regional problems, particularly in e-commerce, fintech, and mobile systems.
 
-I hold a **Bachelor of Science in Nursing (BScN) from the University of Dodoma**, a background that has strengthened my analytical thinking, discipline, and problem-solving approach—skills I now apply in software engineering and product development.
+I hold a **Bachelor of Science in Nursing (BScN) from the University of Dodoma**, a background that has strengthened my analytical thinking, discipline, and problem-solving approach skills I now apply in software engineering and product development.
 
 ---
 
