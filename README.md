@@ -1,6 +1,6 @@
 # Hi 👋, I'm Grayson
 
-### Software Developer | Backend Engineer | Tech Entrepreneur
+### BScN | Software Developer | Tech Entrepreneur
 
 I am a self-taught software developer with a strong focus on backend systems, scalable architectures, and payment-driven applications. I build real-world products that solve local and regional problems, particularly in e-commerce, fintech, and mobile systems.
 
